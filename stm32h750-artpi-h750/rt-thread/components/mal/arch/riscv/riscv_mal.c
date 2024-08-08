@@ -6,6 +6,7 @@
  * Change Logs:
  * Date           Author       Notes
  * 2021-11-25     liukang      first version
+ * 2024-8-9       V1Kin9       implement the rtt-MAL for risc-v
  */
 
 #include <riscv_mal.h>
